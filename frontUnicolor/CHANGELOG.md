@@ -1,27 +1,26 @@
-## [1.3.0] - 2020-03-17
+## [2.1.0] 2020-03-16
 ### Updates
 - update to Angular 9
 - update all dependencies to match Angular 9 version
 
-## [1.2.0] - 2019-01-09
+## [2.0.0] 2019-17-07
 ### Updates
-- updated Angular to latest version(Angular 7)
-- updated Bootstrap to 4.1.2
-- updated all dependencies to fix the warnings
-- fixed error with responsive menu
-- fixed design errors for datepicker + tooltips
+- update from Bootstrap 3 to Bootstrap 4
+- update to Angular 8
+- update all dependencies to match Angular 8 version
+- change the product structure
+### Added
+- useHash
+- online doc
+- paper 2 styles
+- fixed plugin
+- copyright
+- issue_template
+### Bug Fixing
+- fix sidebar scroll
 
+## [1.0.1] 2017-12-07
+- fixed errors for npm start
 
-## [1.1.0] - 2018-08-21
-### Updates
-- updated Angular to latest version
-- updated Bootstrap to 4.1.0
-- updated ng-bootstrap to 2.0.0
-- updated all dependencies to fix the warnings
-
-## [1.0.1] - 2018-05-23
-### Fixes
-- changed some links
-
-## [1.0.0] - 2017-05-10
-### initial Release
+## [1.0.0] 2017-06-27
+### Initial Release

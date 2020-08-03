@@ -1,10 +1,10 @@
-import { Pk2AngularCliFreePage } from './app.po';
+import { PdFreeAngularcliPage } from './app.po';
 
-describe('pk2-angular-cli-free App', () => {
-  let page: Pk2AngularCliFreePage;
+describe('pd-free-angularcli App', () => {
+  let page: PdFreeAngularcliPage;
 
   beforeEach(() => {
-    page = new Pk2AngularCliFreePage();
+    page = new PdFreeAngularcliPage();
   });
 
   it('should display welcome message', () => {
